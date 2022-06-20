@@ -4,4 +4,5 @@ Supporting information of the article, "Coupled plasmon wave dynamics beyond ano
 by Hosna Sultana (hsultana@crimson.ua.edu)
 
 https://doi.org/10.48550/arXiv.2206.05386
+
 Cite as:	arXiv:2206.05386 [physics.optics]
